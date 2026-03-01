@@ -1,4 +1,4 @@
-# 🌤️ Build Your First AI Agent with Python & AWS — A Weather Assistant Workshop
+# 🌤️ Build Your First AI Agent with Python & AWS 
 
 > No AI/ML experience needed. Just Python basics, an AWS account, and curiosity.
 
